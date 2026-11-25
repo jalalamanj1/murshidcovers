@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "files": {
+    "model-1.docx": {
+      "title": "model-1",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.546Z",
+      "size": 1519881
+    },
+    "model-10.docx": {
+      "title": "model-10",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.580Z",
+      "size": 7373993
+    },
+    "model-11.docx": {
+      "title": "model-11",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.596Z",
+      "size": 7473448
+    },
+    "model-12.docx": {
+      "title": "model-12",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.629Z",
+      "size": 7820507
+    },
+    "model-13.docx": {
+      "title": "model-13",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.665Z",
+      "size": 8586108
+    },
+    "model-14.docx": {
+      "title": "model-14",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.691Z",
+      "size": 6208756
+    },
+    "model-16.docx": {
+      "title": "model-16",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.713Z",
+      "size": 6211124
+    },
+    "model-2.docx": {
+      "title": "model-2",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.724Z",
+      "size": 1532877
+    },
+    "model-3.docx": {
+      "title": "model-3",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.729Z",
+      "size": 1303793
+    },
+    "model-4.docx": {
+      "title": "model-4",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.745Z",
+      "size": 1301038
+    },
+    "model-5.docx": {
+      "title": "model-5",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.779Z",
+      "size": 9038613
+    },
+    "model-6.docx": {
+      "title": "model-6",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.796Z",
+      "size": 8114019
+    },
+    "model-7.docx": {
+      "title": "model-7",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.830Z",
+      "size": 7255765
+    },
+    "model-8.docx": {
+      "title": "model-8",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.863Z",
+      "size": 7585176
+    },
+    "model-9.docx": {
+      "title": "model-9",
+      "description": "",
+      "uploadedAt": "2026-11-25T10:46:46.894Z",
+      "size": 8489783
+    }
+  },
+  "previews": {
+    "model-1.jpg": {
+      "size": 144944
+    },
+    "model-10.jpg": {
+      "size": 761538
+    },
+    "model-11.jpg": {
+      "size": 768832
+    },
+    "model-12.jpg": {
+      "size": 809549
+    },
+    "model-13.jpg": {
+      "size": 883442
+    },
+    "model-14.jpg": {
+      "size": 648272
+    },
+    "model-16.jpg": {
+      "size": 649496
+    },
+    "model-2.jpg": {
+      "size": 146359
+    },
+    "model-3.jpg": {
+      "size": 122509
+    },
+    "model-4.jpg": {
+      "size": 122323
+    },
+    "model-5.jpg": {
+      "size": 927390
+    },
+    "model-6.jpg": {
+      "size": 840570
+    },
+    "model-7.jpg": {
+      "size": 759416
+    },
+    "model-8.jpg": {
+      "size": 785130
+    },
+    "model-9.jpg": {
+      "size": 870202
+    }
+  }
+}
